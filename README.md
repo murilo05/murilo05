@@ -1,4 +1,21 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi! I'm Murilo 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">
+  I'm <b>Murilo Bitencourt</b> from Brazil 🇧🇷<br><br>
+  - 🔭 I’m working as a <b>Senior Software Engineer</b><br>
+  - 💡 I have strong experience in <b>Golang</b>, building scalable and resilient backend systems<br>
+  - 📚 I'm currently learning more about <b>Infrastructure</b> and <b>DevOps practices</b><br>
+  - 🚀 I’m also interested in <b>high-performance systems</b> and <b>microservices</b><br>
+  - ⚡ In my free time, I love <b>playing games</b> and working on <b>personal tech projects</b>
+</p>
+
+###
 
 ###
 
